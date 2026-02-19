@@ -1,0 +1,7 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "files.autoSave": "onFocusChange",
+  "editor.renderWhitespace": "none",
+  "editor.minimap.enabled": false,
+  "java.jdt.ls.vmargs": "-Xmx2G -XX:+UseG1GC"
+}

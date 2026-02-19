@@ -1,0 +1,18 @@
+
+Lec#5
+
+1. Implement SimpleLinkedList class recap   
+   
+2. Implement & Test Singly linked list of 1-type objects 
+
+   MagazineListSingleLinked class
+      non-generic, object element type
+
+   MagazineListSingleLinkedTest class
+
+3. Implement generic single linked list class
+
+   SingleLinkedList class
+  
+
+4. Linked list implementation in-class practice Q1
