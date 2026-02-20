@@ -29,13 +29,13 @@ public class HiringApp {
 
     // other methods for code modularization
     // method for getting user choice
-    public static int getChoice(Scanner sc) { // working on this ------------------------- user choice in main
+    public static int getChoice(Scanner sc) { // maybe done ------------------------- user choice in main
 
         // display the menu
         System.out.println("Action (1 to accept, 2 to hire, 3 to fire): ");
         // get user choice
-        return sc.nextInt();
         // return user choice as an integer
+        return sc.nextInt();
 
     }
 
